@@ -2,7 +2,7 @@
 
 ## I'm a Software engineering student 👨🏻‍💻!!
 
-- 🔭 I'm a full stack developer skills
+- 🔭 I'm a full stack developer
 - 🌱 I am looking for end-of-studies internship
 - 👯 I’m looking to collaborate with other content creators
 - ⚡ Fun fact: I love photography
