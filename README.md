@@ -1,10 +1,10 @@
 ### Hi there, I'm Mehdy 👋
 
-## I'm a Software engineering student 👨🏻‍💻!!
+## Full Stack Web Developer & Software Engineer 👨🏻‍💻 | Teacher !!
 
-- 🔭 I'm a full stack developer
-- 🌱 I am looking for end-of-studies internship
-- 👯 I’m looking to collaborate with other content creators
+- 🔭 I'm a highly motivated and skilled software engineer with a passion for building innovative and scalable web applications
+- 🌱 I have a strong background in teaching and mentoring others 
+- 👯 I’m looking to collaborate with other developers 
 - ⚡ Fun fact: I love photography
 
 ### Connect with me:
